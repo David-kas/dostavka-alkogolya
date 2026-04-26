@@ -1,0 +1,6 @@
+﻿User-agent: *
+Allow: /
+
+Sitemap: https://dostavka-alkogolya24.online/sitemap.xml
+Host: https://dostavka-alkogolya24.online
+
