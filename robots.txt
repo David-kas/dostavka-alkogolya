@@ -1,6 +1,6 @@
 ﻿User-agent: *
 Allow: /
 
-Sitemap: https://dostavka-alkogolya24.online/sitemap.xml
-Host: https://dostavka-alkogolya24.online
+Sitemap: https://dostavka-alkogolya.vercel.app/sitemap.xml
+Host: https://dostavka-alkogolya.vercel.app
 
